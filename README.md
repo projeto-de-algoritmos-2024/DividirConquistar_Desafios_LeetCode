@@ -13,7 +13,7 @@
 Meu projeto foi resolução de problemas do LeetCode.
 
 ## Link de apresentação no Youtube
-[Clique aqui](https://youtu.be/ilg64m6Xzlk) 
+[Clique aqui]() 
 
 ## Screenshots do Projeto em Funcionamento
 
@@ -24,10 +24,9 @@ Aqui estão algumas imagens do projeto em funcionamento:
 ![Screenshot Desafio 1](./assets/CountInversionsPassed.png)
 
 
-## Uso
+## Modo de uso
 
-Realizei os testes na minha maquina com
-python versão 3.13.0
+versão do Python: 3.13.0
 
 Para rodar o arquivo manualmente:<br>
 `python nomeDoArquivo.py`
