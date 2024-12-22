@@ -4,16 +4,17 @@
 
 ## Alunos
 
-| Matrícula  | Aluno                          |
-| ---------- | ------------------------------ |
-| 21/1030809 | JULIO CESAR ALMEIDA DOURADO    |
+| Matrícula  | Aluno                       |
+| ---------- | --------------------------- |
+| 21/1030809 | JULIO CESAR ALMEIDA DOURADO |
 
 ## Sobre
 
 Meu projeto foi resolução de problemas do LeetCode.
 
 ## Link de apresentação no Youtube
-[Clique aqui]() 
+
+[Clique aqui]()
 
 ## Screenshots do Projeto em Funcionamento
 
@@ -23,6 +24,9 @@ Aqui estão algumas imagens do projeto em funcionamento:
 
 ![Screenshot Desafio 1](./assets/CountInversionsPassed.png)
 
+#### Desafio 2 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
+
+![Screenshot Desafio 2](./assets/FindMedianDataStreamPassed.png)
 
 ## Modo de uso
 
