@@ -10,7 +10,7 @@
 
 ## Sobre
 
-Meu projeto foi resolução de problemas do LeetCode.
+Meu projeto é a resolução de problemas do LeetCode.
 
 ## Link de apresentação no Youtube
 
