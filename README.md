@@ -14,7 +14,7 @@ Meu projeto foi resolução de problemas do LeetCode.
 
 ## Link de apresentação no Youtube
 
-[Clique aqui]()
+[Clique aqui](https://youtu.be/B19REN0ZtTU)
 
 ## Screenshots do Projeto em Funcionamento
 
@@ -24,9 +24,15 @@ Aqui estão algumas imagens do projeto em funcionamento:
 
 ![Screenshot Desafio 1](./assets/CountInversionsPassed.png)
 
-#### Desafio 2 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
+#### Desafio 2 [295. Find Median from Data Stream(HARD)](https://leetcode.com/problems/find-median-from-data-stream/description/)
 
 ![Screenshot Desafio 2](./assets/FindMedianDataStreamPassed.png)
+
+#### Desafio 3 [2471. Minimum Number of Operations to Sort a Binary Tree by Level(MEDIUM)](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)
+
+![Screenshot Desafio 3](./assets/minimunNumberPassed.png)
+
+
 
 ## Modo de uso
 
